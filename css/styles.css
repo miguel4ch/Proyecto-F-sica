@@ -1,0 +1,35 @@
+.icono{
+    width: 20%;
+}
+
+.notacion{
+    max-width: 40%;
+}
+
+.btn_notacion{
+    color:  #2174ac;
+}
+
+.btn_notacion:hover{
+   color: #13547a;
+}
+
+.temas{
+    justify-content: center;
+}
+
+.formula_mrua{
+    width: 100%;
+}
+
+.caida{
+    width: 60%;
+}
+
+.formula_caida{
+    width: 50%;
+}
+
+.icono-fisica{
+    width: 50%;
+}
